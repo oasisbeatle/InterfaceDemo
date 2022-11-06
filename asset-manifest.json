@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/InterfaceDemo/static/css/main.1c88f51d.css",
-    "main.js": "/InterfaceDemo/static/js/main.a84b3423.js",
+    "main.css": "/InterfaceDemo/static/css/main.d4e3efb8.css",
+    "main.js": "/InterfaceDemo/static/js/main.f6d4c1fa.js",
     "static/js/787.6d488f10.chunk.js": "/InterfaceDemo/static/js/787.6d488f10.chunk.js",
     "static/media/p2.png": "/InterfaceDemo/static/media/p2.2fefff1f656847372150.png",
     "static/media/p3.png": "/InterfaceDemo/static/media/p3.af344ad698e39c61c9e9.png",
-    "static/media/pexels-damir-mijailovic-5507510.jpg": "/InterfaceDemo/static/media/pexels-damir-mijailovic-5507510.a941103425f824b4ad6a.jpg",
-    "static/media/back-it.gif": "/InterfaceDemo/static/media/back-it.957a8052edd8af13ef0b.gif",
     "static/media/p1.jpg": "/InterfaceDemo/static/media/p1.12274a7208a7651c0798.jpg",
     "static/media/logo.svg": "/InterfaceDemo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "static/media/MetaMask_Fox.svg": "/InterfaceDemo/static/media/MetaMask_Fox.df996025af54766016c55e23524ba3fa.svg",
     "static/media/home.svg": "/InterfaceDemo/static/media/home.ffb8a1f8e6dd39ff94a2a1597a0455c8.svg",
     "index.html": "/InterfaceDemo/index.html",
-    "main.1c88f51d.css.map": "/InterfaceDemo/static/css/main.1c88f51d.css.map",
-    "main.a84b3423.js.map": "/InterfaceDemo/static/js/main.a84b3423.js.map",
+    "main.d4e3efb8.css.map": "/InterfaceDemo/static/css/main.d4e3efb8.css.map",
+    "main.f6d4c1fa.js.map": "/InterfaceDemo/static/js/main.f6d4c1fa.js.map",
     "787.6d488f10.chunk.js.map": "/InterfaceDemo/static/js/787.6d488f10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c88f51d.css",
-    "static/js/main.a84b3423.js"
+    "static/css/main.d4e3efb8.css",
+    "static/js/main.f6d4c1fa.js"
   ]
 }
